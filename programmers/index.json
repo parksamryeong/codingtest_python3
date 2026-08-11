@@ -9,6 +9,15 @@
     "lastRun": "2026-08-11T06:56:20.613Z"
   },
   {
+    "lessonId": "42576",
+    "title": "완주하지 못한 선수",
+    "level": "1",
+    "category": "해시",
+    "status": "passed",
+    "path": "programmers/해시/[Lv1][42576] 완주하지 못한 선수",
+    "lastRun": "2026-08-11T11:33:23.584Z"
+  },
+  {
     "lessonId": "64061",
     "title": "크레인 인형뽑기 게임",
     "level": "1",
