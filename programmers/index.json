@@ -18,6 +18,15 @@
     "lastRun": "2026-08-12T08:33:58.380Z"
   },
   {
+    "lessonId": "12921",
+    "title": "소수 찾기",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12921] 소수 찾기",
+    "lastRun": "2026-08-12T13:59:48.788Z"
+  },
+  {
     "lessonId": "42576",
     "title": "완주하지 못한 선수",
     "level": "1",
