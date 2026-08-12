@@ -27,6 +27,15 @@
     "lastRun": "2026-08-11T11:33:23.584Z"
   },
   {
+    "lessonId": "86491",
+    "title": "최소직사각형",
+    "level": "1",
+    "category": "완전탐색",
+    "status": "passed",
+    "path": "programmers/완전탐색/[Lv1][86491] 최소직사각형",
+    "lastRun": "2026-08-12T13:42:44.696Z"
+  },
+  {
     "lessonId": "64061",
     "title": "크레인 인형뽑기 게임",
     "level": "1",
