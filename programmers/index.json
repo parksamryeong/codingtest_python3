@@ -54,6 +54,15 @@
     "lastRun": "2026-08-11T11:33:23.584Z"
   },
   {
+    "lessonId": "42862",
+    "title": "체육복",
+    "level": "1",
+    "category": "탐욕법(Greedy)",
+    "status": "passed",
+    "path": "programmers/탐욕법(Greedy)/[Lv1][42862] 체육복",
+    "lastRun": "2026-08-22T17:06:43.922Z"
+  },
+  {
     "lessonId": "86491",
     "title": "최소직사각형",
     "level": "1",

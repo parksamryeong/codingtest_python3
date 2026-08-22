@@ -2,8 +2,8 @@
 
 이 저장소는 [Programmers-AutoCommit](https://github.com/YunJuho0010/Programmers-AutoCommit) 확장 프로그램으로 자동 생성됩니다.
 
-- 총 문제 수: **8개** (테스트 통과 8개)
-- 난이도별: Lv1 8개
+- 총 문제 수: **9개** (테스트 통과 9개)
+- 난이도별: Lv1 9개
 
 | 상태 | 문제 | 난이도 | 분류 | 마지막 실행 |
 | --- | --- | --- | --- | --- |
@@ -13,5 +13,6 @@
 | ✅ 테스트 통과 | [소수 찾기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12921%5D%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0) | Lv1 | 연습문제 | 2026. 8. 12. 오후 10:59:48 |
 | ✅ 테스트 통과 | [예산](programmers/Summer_Winter%20Coding(~2018)/%5BLv1%5D%5B12982%5D%20%EC%98%88%EC%82%B0) | Lv1 | Summer/Winter Coding(~2018) | 2026. 8. 13. 오후 8:57:39 |
 | ✅ 테스트 통과 | [완주하지 못한 선수](programmers/%ED%95%B4%EC%8B%9C/%5BLv1%5D%5B42576%5D%20%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98) | Lv1 | 해시 | 2026. 8. 11. 오후 8:33:23 |
+| ✅ 테스트 통과 | [체육복](programmers/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/%5BLv1%5D%5B42862%5D%20%EC%B2%B4%EC%9C%A1%EB%B3%B5) | Lv1 | 탐욕법(Greedy) | 2026. 8. 23. 오전 2:06:43 |
 | ✅ 테스트 통과 | [최소직사각형](programmers/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%5BLv1%5D%5B86491%5D%20%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95) | Lv1 | 완전탐색 | 2026. 8. 12. 오후 10:42:44 |
 | ✅ 테스트 통과 | [크레인 인형뽑기 게임](programmers/2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD/%5BLv1%5D%5B64061%5D%20%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84) | Lv1 | 2019 카카오 개발자 겨울 인턴십 | 2026. 8. 11. 오후 5:33:17 |
