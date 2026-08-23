@@ -2,13 +2,14 @@
 
 이 저장소는 [Programmers-AutoCommit](https://github.com/YunJuho0010/Programmers-AutoCommit) 확장 프로그램으로 자동 생성됩니다.
 
-- 총 문제 수: **12개** (테스트 통과 12개)
-- 난이도별: Lv1 12개
+- 총 문제 수: **13개** (테스트 통과 13개)
+- 난이도별: Lv1 13개
 
 | 상태 | 문제 | 난이도 | 분류 | 마지막 실행 |
 | --- | --- | --- | --- | --- |
 | ✅ 테스트 통과 | [[1차] 비밀지도](programmers/2018%20KAKAO%20BLIND%20RECRUITMENT/%5BLv1%5D%5B17681%5D%20%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84) | Lv1 | 2018 KAKAO BLIND RECRUITMENT | 2026. 8. 23. 오후 6:48:16 |
 | ✅ 테스트 통과 | [같은 숫자는 싫어](programmers/%EC%8A%A4%ED%83%9D_%ED%81%90/%5BLv1%5D%5B12906%5D%20%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4) | Lv1 | 스택/큐 | 2026. 8. 11. 오후 3:56:20 |
+| ✅ 테스트 통과 | [두 개 뽑아서 더하기](programmers/%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C1/%5BLv1%5D%5B68644%5D%20%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0) | Lv1 | 월간 코드 챌린지 시즌1 | 2026. 8. 23. 오후 7:14:59 |
 | ✅ 테스트 통과 | [모의고사](programmers/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%5BLv1%5D%5B42840%5D%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC) | Lv1 | 완전탐색 | 2026. 8. 12. 오후 5:33:58 |
 | ✅ 테스트 통과 | [삼총사](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B131705%5D%20%EC%82%BC%EC%B4%9D%EC%82%AC) | Lv1 | 연습문제 | 2026. 8. 13. 오후 5:14:25 |
 | ✅ 테스트 통과 | [소수 찾기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12921%5D%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0) | Lv1 | 연습문제 | 2026. 8. 12. 오후 10:59:48 |
