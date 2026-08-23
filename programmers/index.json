@@ -1,5 +1,14 @@
 [
   {
+    "lessonId": "17681",
+    "title": "[1차] 비밀지도",
+    "level": "1",
+    "category": "2018 KAKAO BLIND RECRUITMENT",
+    "status": "passed",
+    "path": "programmers/2018 KAKAO BLIND RECRUITMENT/[Lv1][17681] [1차] 비밀지도",
+    "lastRun": "2026-08-23T09:48:16.018Z"
+  },
+  {
     "lessonId": "12906",
     "title": "같은 숫자는 싫어",
     "level": "1",
