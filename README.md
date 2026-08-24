@@ -2,8 +2,8 @@
 
 이 저장소는 [Programmers-AutoCommit](https://github.com/YunJuho0010/Programmers-AutoCommit) 확장 프로그램으로 자동 생성됩니다.
 
-- 총 문제 수: **13개** (테스트 통과 13개)
-- 난이도별: Lv1 13개
+- 총 문제 수: **14개** (테스트 통과 14개)
+- 난이도별: Lv1 14개
 
 | 상태 | 문제 | 난이도 | 분류 | 마지막 실행 |
 | --- | --- | --- | --- | --- |
@@ -13,6 +13,7 @@
 | ✅ 테스트 통과 | [모의고사](programmers/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%5BLv1%5D%5B42840%5D%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC) | Lv1 | 완전탐색 | 2026. 8. 12. 오후 5:33:58 |
 | ✅ 테스트 통과 | [삼총사](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B131705%5D%20%EC%82%BC%EC%B4%9D%EC%82%AC) | Lv1 | 연습문제 | 2026. 8. 13. 오후 5:14:25 |
 | ✅ 테스트 통과 | [소수 찾기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12921%5D%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0) | Lv1 | 연습문제 | 2026. 8. 12. 오후 10:59:48 |
+| ✅ 테스트 통과 | [실패율](programmers/2019%20KAKAO%20BLIND%20RECRUITMENT/%5BLv1%5D%5B42889%5D%20%EC%8B%A4%ED%8C%A8%EC%9C%A8) | Lv1 | 2019 KAKAO BLIND RECRUITMENT | 2026. 8. 24. 오후 10:32:04 |
 | ✅ 테스트 통과 | [예산](programmers/Summer_Winter%20Coding(~2018)/%5BLv1%5D%5B12982%5D%20%EC%98%88%EC%82%B0) | Lv1 | Summer/Winter Coding(~2018) | 2026. 8. 13. 오후 8:57:39 |
 | ✅ 테스트 통과 | [완주하지 못한 선수](programmers/%ED%95%B4%EC%8B%9C/%5BLv1%5D%5B42576%5D%20%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98) | Lv1 | 해시 | 2026. 8. 11. 오후 8:33:23 |
 | ✅ 테스트 통과 | [체육복](programmers/%ED%83%90%EC%9A%95%EB%B2%95(Greedy)/%5BLv1%5D%5B42862%5D%20%EC%B2%B4%EC%9C%A1%EB%B3%B5) | Lv1 | 탐욕법(Greedy) | 2026. 8. 23. 오전 2:06:43 |
