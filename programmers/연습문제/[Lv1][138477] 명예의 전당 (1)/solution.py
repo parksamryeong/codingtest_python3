@@ -1,13 +1,14 @@
+import heapq
+
 def solution(k, score):
     answer = []
-    rank = []
-    
+    heap = []
+
     for s in score:
-        rank.append(s)
-        if len(rank) < k:
-            answer.append(min(rank))
+        if len(heap) < k:
+            heapq.heappush(heap, s)
         else:
-            top_k = sorted(rank, reverse=True)[:k]
-            answer.append(min(top_k))
+            heapq.heappushpop(heap, s)
+        answer.append(heap[0])
     
     return answer
