@@ -144,6 +144,15 @@
     "lastRun": "2026-08-12T13:42:44.696Z"
   },
   {
+    "lessonId": "132267",
+    "title": "콜라 문제",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][132267] 콜라 문제",
+    "lastRun": "2026-08-30T15:30:43.214Z"
+  },
+  {
     "lessonId": "64061",
     "title": "크레인 인형뽑기 게임",
     "level": "1",
