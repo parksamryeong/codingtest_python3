@@ -18,6 +18,15 @@
     "lastRun": "2026-08-23T09:48:16.018Z"
   },
   {
+    "lessonId": "68935",
+    "title": "3진법 뒤집기",
+    "level": "1",
+    "category": "월간 코드 챌린지 시즌1",
+    "status": "passed",
+    "path": "programmers/월간 코드 챌린지 시즌1/[Lv1][68935] 3진법 뒤집기",
+    "lastRun": "2026-08-31T09:20:15.607Z"
+  },
+  {
     "lessonId": "12906",
     "title": "같은 숫자는 싫어",
     "level": "1",
