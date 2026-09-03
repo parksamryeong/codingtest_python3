@@ -162,6 +162,15 @@
     "lastRun": "2026-08-22T17:06:43.922Z"
   },
   {
+    "lessonId": "12940",
+    "title": "최대공약수와 최소공배수",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12940] 최대공약수와 최소공배수",
+    "lastRun": "2026-09-03T21:35:28.873Z"
+  },
+  {
     "lessonId": "86491",
     "title": "최소직사각형",
     "level": "1",
