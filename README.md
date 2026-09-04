@@ -2,7 +2,7 @@
 
 이 저장소는 [Programmers-AutoCommit](https://github.com/YunJuho0010/Programmers-AutoCommit) 확장 프로그램으로 자동 생성됩니다.
 
-- 총 문제 수: **27개** (테스트 통과 26개)
+- 총 문제 수: **27개** (테스트 통과 27개)
 - 난이도별: Lv1 27개
 
 | 상태 | 문제 | 난이도 | 분류 | 마지막 실행 |
@@ -14,7 +14,7 @@
 | ✅ 테스트 통과 | [두 개 뽑아서 더하기](programmers/%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C1/%5BLv1%5D%5B68644%5D%20%EB%91%90%20%EA%B0%9C%20%EB%BD%91%EC%95%84%EC%84%9C%20%EB%8D%94%ED%95%98%EA%B8%B0) | Lv1 | 월간 코드 챌린지 시즌1 | 2026. 8. 23. 오후 7:14:59 |
 | ✅ 테스트 통과 | [명예의 전당 (1)](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B138477%5D%20%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9%20(1)) | Lv1 | 연습문제 | 2026. 8. 29. 오후 7:16:22 |
 | ✅ 테스트 통과 | [모의고사](programmers/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/%5BLv1%5D%5B42840%5D%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC) | Lv1 | 완전탐색 | 2026. 8. 12. 오후 5:33:58 |
-| 🔺 시도 중 | [부족한 금액 계산하기](programmers/%EC%9C%84%ED%81%B4%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80/%5BLv1%5D%5B82612%5D%20%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) | Lv1 | 위클리 챌린지 | 2026. 9. 4. 오전 11:13:16 |
+| ✅ 테스트 통과 | [부족한 금액 계산하기](programmers/%EC%9C%84%ED%81%B4%EB%A6%AC%20%EC%B1%8C%EB%A6%B0%EC%A7%80/%5BLv1%5D%5B82612%5D%20%EB%B6%80%EC%A1%B1%ED%95%9C%20%EA%B8%88%EC%95%A1%20%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0) | Lv1 | 위클리 챌린지 | 2026. 9. 4. 오전 11:15:00 |
 | ✅ 테스트 통과 | [삼총사](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B131705%5D%20%EC%82%BC%EC%B4%9D%EC%82%AC) | Lv1 | 연습문제 | 2026. 8. 13. 오후 5:14:25 |
 | ✅ 테스트 통과 | [성격 유형 검사하기](programmers/2022%20KAKAO%20TECH%20INTERNSHIP/%5BLv1%5D%5B118666%5D%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0) | Lv1 | 2022 KAKAO TECH INTERNSHIP | 2026. 8. 29. 오전 1:32:06 |
 | ✅ 테스트 통과 | [소수 찾기](programmers/%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C/%5BLv1%5D%5B12921%5D%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0) | Lv1 | 연습문제 | 2026. 8. 12. 오후 10:59:48 |

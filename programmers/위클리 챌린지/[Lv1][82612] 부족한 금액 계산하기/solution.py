@@ -4,4 +4,4 @@ def solution(price, money, count):
     for i in range(1, count + 1):
         sum += price * i
 
-    return sum - money
+    return max(0, sum - money)
