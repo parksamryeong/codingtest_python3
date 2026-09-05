@@ -243,6 +243,15 @@
     "lastRun": "2026-08-22T17:49:24.190Z"
   },
   {
+    "lessonId": "12948",
+    "title": "핸드폰 번호 가리기",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12948] 핸드폰 번호 가리기",
+    "lastRun": "2026-09-05T13:56:31.766Z"
+  },
+  {
     "lessonId": "42748",
     "title": "K번째수",
     "level": "1",
