@@ -36,6 +36,15 @@
     "lastRun": "2026-08-11T06:56:20.613Z"
   },
   {
+    "lessonId": "12910",
+    "title": "나누어 떨어지는 숫자 배열",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12910] 나누어 떨어지는 숫자 배열",
+    "lastRun": "2026-09-05T14:05:06.954Z"
+  },
+  {
     "lessonId": "68644",
     "title": "두 개 뽑아서 더하기",
     "level": "1",
