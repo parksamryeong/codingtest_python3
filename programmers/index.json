@@ -54,6 +54,15 @@
     "lastRun": "2026-08-23T10:14:59.693Z"
   },
   {
+    "lessonId": "12912",
+    "title": "두 정수 사이의 합",
+    "level": "1",
+    "category": "연습문제",
+    "status": "passed",
+    "path": "programmers/연습문제/[Lv1][12912] 두 정수 사이의 합",
+    "lastRun": "2026-09-05T14:09:37.078Z"
+  },
+  {
     "lessonId": "138477",
     "title": "명예의 전당 (1)",
     "level": "1",
